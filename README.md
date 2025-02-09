@@ -1,7 +1,7 @@
 # how to run receipt_processor
 
 ## Step 1: 
-mvn clean package
+mvn clean package (make sure to install maven beforehand)
 
 ## Step 2:
 docker build -t receipt-processor .
