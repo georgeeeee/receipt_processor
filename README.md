@@ -1,6 +1,6 @@
 # how to run receipt_processor
 
-## Step 0
+## Step 0:
 cd path/to/receipt_processor
 
 ## Step 1: 
