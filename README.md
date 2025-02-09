@@ -1,4 +1,4 @@
-# receipt_processor
+# how to run receipt_processor
 
 ## Step 1: 
 mvn clean package
